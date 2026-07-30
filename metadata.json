@@ -1,0 +1,6 @@
+{
+  "name": "Design Plaza",
+  "description": "Premium Animated Website Marketplace — Browse live animated website demos across diverse industries and book custom web solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
